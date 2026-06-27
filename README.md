@@ -5,7 +5,8 @@ The reason why I used this approach was because homebrew kept giving me errors m
 *In case you want to use homebrew on your macOS, here is the link: https://github.com/raysan5/raylib*
 
 To use this repository, user requires to go to Raylib's offical site and download their source code first before using this. 
-*Here is the link to Raylib github: https://github.com/raysan5/raylib/releases/tag/4.0.0*
+*Here is the link to Raylib github: https://github.com/raysan5/raylib/releases/tag/4.0.0* 
+
 **Step by Step**
 First download the source [code.zip] then unzipped it. After that right click on the src folder and choose the option open terminal in another window and use command make to run it. 
 
